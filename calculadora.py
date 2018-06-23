@@ -90,6 +90,7 @@ Se você não quer continuar usando aperte qualquer numero: """));
 
 	 else:
 	    print("Obrigado por usar meu programa !");
+	    print("Version 0.2.1");
 
 
 menu();
