@@ -14,7 +14,7 @@ def menu():
 
 	print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
 
-	print("   A média entre a Primeira nota: {:.0f}, Segunda Nota: {:.0f}".format(x, z))
+	print("   A média entre a Primeira nota: {:.1f}, Segunda Nota: {:.1f}".format(x, z))
 
 	print("   Terceita Nota: {:.1f}, e Quarta Nota: {:.1f}".format(y, v))
 
